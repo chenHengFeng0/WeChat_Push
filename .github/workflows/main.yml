@@ -1,4 +1,4 @@
-name: weChat_push
+name: WeChat_push
 on:
   schedule:
   - cron:  '0 23 * * *'
@@ -7,7 +7,7 @@ on:
 jobs:
   send_message:
     runs-on: ubuntu-latest
-    name: send daily_morning to your girlfriend
+    name: WeChat_push
 
     steps:
     - name: checkout
