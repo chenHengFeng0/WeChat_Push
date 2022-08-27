@@ -1,0 +1,43 @@
+
+##     （模板）    #######################################
+今天是 {{date.DATA}}
+
+{{city.DATA}}今日天气：{{weather.DATA}}
+当前气温: {{temp.DATA}}
+空气湿度: {{humidity.DATA}}
+最高气温: {{high.DATA}}
+最低气温: {{low.DATA}}
+风向: {{wind.DATA}}
+pm2.5: {{pm25.DATA}}
+空气质量: {{airQuality.DATA}}
+
+今天是我们认识的第{{days.DATA}}天
+{{birthday.DATA}}
+
+{{words.DATA}}
+########################################################
+
+# 微信测试号的 app_id
+APP_ID
+
+# 微信测试号的 app_secret
+APP_SECRET
+
+# 模板ID
+TEMPLATE_ID
+
+# 用户ID
+USER_ID
+
+# 天行API我的密钥KEY
+API_KEY
+
+# 开始日期
+START_DATE
+
+# 城市
+CITY
+
+# 生日
+BIRTHDAY
+
